@@ -37,5 +37,3 @@ This repository contains a full-stack implementation of a house price prediction
 - Deploying ML models as web services.
 - Building data-dense interactive dashboards.
 
----
-*Created as part of an industry-oriented Data Science portfolio.*
