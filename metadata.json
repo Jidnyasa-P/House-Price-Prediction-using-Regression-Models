@@ -1,0 +1,6 @@
+{
+  "name": "House Price AI Dashboard",
+  "description": "A comprehensive regression-based house price prediction system with interactive visualizations and ML inference simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
